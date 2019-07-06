@@ -3,7 +3,7 @@
 using namespace std;
 #define _clr(a,b) memset(a,(b),sizeof(a))
 
-const int MAXN = 1e6+10;//1e5内存不够
+const int MAXN = 1e6+10;//1e5 is insuffient for memory using
 int trie[MAXN][50];
 
 
